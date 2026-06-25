@@ -1,0 +1,12 @@
+root:{
+    /* CSS HEX */
+--azul: rgb(4, 0, 240);
+--amarelo: #fdffb6ff;
+--roxo : #bdb2ffff;
+--rosa: #ffc6ffff;
+--branco: rgb(255, 255, 255);
+
+}
+body{
+    background:
+}
